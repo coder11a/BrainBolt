@@ -74,5 +74,8 @@ The app is exposed on `http://localhost:3000`.
   - `GET /api/auth/user`
 - **Quiz**
   - `GET /api/quiz/next`
+  - `GET /api/quiz/leaderboard`
+  - `GET /api/quiz/metrics`
   - `POST /api/quiz/answer`
+    
 
